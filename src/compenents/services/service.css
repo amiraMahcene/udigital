@@ -1,0 +1,65 @@
+.conS
+{
+    width:100%;
+    min-height:100vh;
+    display: flex;
+    flex-direction: column;
+    padding:20px 10%;
+   
+    
+}
+.conS .top
+{
+    text-align: center;
+    width:70%;
+    height:2%;
+    margin:auto
+}
+.conS .top h2{
+    margin-bottom: 1.8rem;
+}
+.conS .bottom
+{
+    width:70%;
+    height: 98%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin:auto;
+}
+.conS .bottom div
+{
+    flex-basis: 48%;
+    height:200px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.conS .bottom div .left
+{
+   width: 2%;
+   height:100%;
+}
+.conS .bottom div .left img
+{
+    width:120px;
+    height:120px;
+    margin-top:50px;
+}
+.conS .bottom div .right
+{
+    flex-basis: 95%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+}
+.conS .bottom div .right h3
+{
+    font-size: 16px;
+    margin-top: 30px;
+}
+.conS .bottom div .right p{
+    font-size: 10px;
+    line-height: normal;
+}

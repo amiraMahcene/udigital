@@ -1,0 +1,7 @@
+.conH
+{
+    background-image: url("../../images/bg.svg");
+    width: 100%;
+    min-height: 180vh;
+    background-repeat: no-repeat;
+}

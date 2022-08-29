@@ -1,0 +1,25 @@
+.conN
+{
+    width:100%;
+    height:10%;
+    display: flex;
+    padding:2% 10%;
+    justify-content: space-between;
+}
+.logo
+{
+    flex-basis: 15%;
+}
+ul{
+    flex-basis: 70%;
+    display: flex;
+    gap:5rem;
+    justify-content: center;
+    margin-top: 15px;
+}
+.button
+{
+    flex-basis: 15%;
+    margin-top: 5px;
+}
+

@@ -1,0 +1,56 @@
+.conm
+{
+    width:70%;
+    height:10%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20% auto;
+}
+.conm div
+{
+   width:120px;
+   height:120px;
+   background-color: var(--color-ffffff);
+   padding:10px 20px;
+   box-shadow: 2px 2px 8px #ccc ;
+   border-radius: 20px;
+}
+ .conm div img{
+    width:80%;
+    height:40px;
+    margin:40px auto;
+}
+.conm #img1 img
+{
+  width:95%;
+  height:70px;
+  margin:5px auto
+}
+.conm #img2 img
+{
+  width: 92%;
+  height:20px;
+}
+.conm #img3 img
+{
+    width:92%;
+    height:20px;
+}
+.conm #img4 img
+{
+    width:92%;
+    height:70px;
+    margin: 10px auto;
+}
+.conm #img5 img
+{
+    width:99%;
+    height:80px;
+    margin: 10px auto;
+}
+.conm #img6 img
+{
+    width:95%;
+    height:55px;
+    margin: 30px auto;
+}

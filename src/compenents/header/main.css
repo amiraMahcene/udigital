@@ -1,0 +1,41 @@
+
+.conM
+{
+    width:70%;
+    height:100%;
+    display:flex;
+    padding:10px 20px;
+    margin:5.5% auto;
+    position: relative;
+    flex-wrap: wrap;
+   
+
+}
+.conM .left
+{
+    flex-basis: 40%;
+ 
+}
+.conM .left h1
+{
+   font-weight: 400;
+   font-size: 48px;
+   line-height: 1.7;
+   margin-bottom: 8%;
+}
+.conM .left p
+{
+    margin-bottom: 8%;
+    color:var(--color-616161)
+}
+.conM .right
+{
+    flex-basis: 60%;
+}
+.conM .right img{
+    width:50%;
+    height:60%;
+    position: absolute;
+    right:6%;
+
+}
